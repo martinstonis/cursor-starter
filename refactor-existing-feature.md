@@ -16,10 +16,11 @@ Use this template to generate a comprehensive refactoring plan for an existing f
 ## Prompt Template
 
 I need to refactor an existing feature in my project. The goal is to improve its maintainability, performance, and readability without altering its external behavior. I need your help to create a detailed technical plan for this refactoring effort.
+Save the plan as `[relevant-file-name].md` in the base folder of this project.
 
 Here is the existing feature's code and a brief description of its functionality:
 
-[USER: PASTE THE RELEVANT CODE FOR THE FEATURE TO BE REFACTORED HERE. INCLUDE MULTIPLE FILES IF NECESSARY, AND PROVIDE A BRIEF DESCRIPTION OF WHAT THE FEATURE CURRENTLY DOES AND ANY KNOWN PAIN POINTS.]
+`[USER: PASTE THE RELEVANT CODE FOR THE FEATURE TO BE REFACTORED HERE. INCLUDE MULTIPLE FILES IF NECESSARY, AND PROVIDE A BRIEF DESCRIPTION OF WHAT THE FEATURE CURRENTLY DOES AND ANY KNOWN PAIN POINTS.]`
 
 ---
 
