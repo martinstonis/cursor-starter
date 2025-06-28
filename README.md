@@ -23,7 +23,7 @@ Perfect for when you're starting a new project or feature:
 Essential prompts for active coding:
 - **Code Generation**: Create boilerplate and components
 - **Code Review**: Get thorough code analysis
-- **Refactoring**: Improve existing code structure
+- **Refactoring**: Improve existing code structure. Also see the [detailed refactoring plan template](./refactor-existing-feature.md).
 - **Bug Fixing**: Debug issues systematically
 - **Performance Optimisation**: Enhance code efficiency
 
