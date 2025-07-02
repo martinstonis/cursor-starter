@@ -13,7 +13,7 @@ Use this template to create a rework plan for an existing feature in your codeba
 
 ---
 
-I need to rework an existing feature in my project. Existing requirements have changed, and the functionality has similarities and differences to before. I need your help to create a detailed technical plan for this technical rework. Save the plan in .plans/[example-title].md 
+I need to rework an existing feature in my project. Existing requirements have changed, and the functionality has similarities and differences to before. I need your help to create a detailed technical plan for this technical rework. Save the plan in .plans/`[example-title]`.md 
 
 Here is the existing feature's code and a brief description of its functionality:
 
